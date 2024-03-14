@@ -1,0 +1,8 @@
+Arroz1,Arrozgrado 1 Tucapel, 1000, 03-03-2023
+Arroz2,Arrozgrado 2 Tucapel, 2300, 03-03-2023
+Arroz3,Arrozgrado 1 Acuenta, 4000, 03-03-2023
+Arroz4,Arrozgrado 2 Acuenta, 5000, 03-03-2023
+Arroz5,Arrozgrado 1 Jumbo, 2000, 03-03-2023
+Arroz6,Arrozgrado 2 Jumbo, 800, 03-03-2023
+Arroz,Arrozgrado 1 Totus, 500, 03-03-2023
+Arroz,Arrozgrado 2 Totus, 500, 03-03-2023
